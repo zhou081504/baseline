@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.venv-table/
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Datasets
+data/
+*.csv
+*.xlsx
+
+# Models
+models/
+*.pt
+*.pth
+*.safetensors
+
+# Training results
+runs/
+artifacts/
+backups/
+
+# Secrets
+.env
+.env.*
+*.pem
+
+# Logs
+*.log
+
+# Large model files
+*.bin
+*.safetensors
+*.pt
+*.pth

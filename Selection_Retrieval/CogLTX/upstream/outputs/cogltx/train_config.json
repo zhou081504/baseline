@@ -1,0 +1,7 @@
+{
+  "epochs": 2,
+  "lr": 2e-05,
+  "weight_decay": 0.01,
+  "seed": 42,
+  "threshold": 0.002317895647138357
+}

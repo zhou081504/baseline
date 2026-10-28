@@ -1,0 +1,47 @@
+{
+  "device": "cpu",
+  "threads": 2,
+  "offline": true,
+  "not_benchmark_results": true,
+  "checks": [
+    {
+      "repo": "BAAI/bge-m3",
+      "revision": "5617a9f61b028005a4858fdac845db406aefb181",
+      "status": "passed",
+      "seconds": 14.01,
+      "scores": [
+        0.5355919003486633,
+        0.5251373648643494
+      ],
+      "embedding_dimension": 1024
+    },
+    {
+      "repo": "fangyuan/nq_extractive_compressor",
+      "revision": "46f98c1f57fa919c72d86ced16e3ece3403f9e9e",
+      "status": "passed",
+      "seconds": 6.74,
+      "scores": [
+        63.378746032714844,
+        63.755821228027344
+      ],
+      "embedding_dimension": 768
+    },
+    {
+      "repo": "BAAI/bge-reranker-v2-m3",
+      "revision": "953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e",
+      "status": "passed",
+      "seconds": 19.24,
+      "scores": [
+        0.0003857781121041626,
+        4.0906630601966754e-05
+      ]
+    },
+    {
+      "repo": "Qwen/Qwen2.5-3B-Instruct",
+      "revision": "aa8e72537993ba99e69dfaafa59ed015b17504d1",
+      "status": "passed",
+      "seconds": 111.93,
+      "generated_text": "模型已经加载成功，可以开始使用了。有什么我可以"
+    }
+  ]
+}

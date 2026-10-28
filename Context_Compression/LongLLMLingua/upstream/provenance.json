@@ -1,0 +1,12 @@
+{
+  "source_path": "/Users/zhouzhongliang/Desktop/Alex/\u5f31\u4fe1\u53f7\u53d1\u73b0/LLMLingua",
+  "repository": "https://github.com/microsoft/LLMLingua",
+  "commit": "e0e9d99beb94098bbd924aa53c2c112eac41c758",
+  "extraction": "Shared implementation copied byte-for-byte; dedicated LongLLMLingua wrapper added.",
+  "sha256": {
+    "llmlingua/prompt_compressor.py": "814e02e8dfaf33c2cd91d3990c0ecd9c42c1cb11ca57b665730bcf8fb2e4a2a4",
+    "llmlingua/utils.py": "6f3c1d7bb349413de5d5e8474380df7bd82aa4fd6d50766da9596495ca2d62bc",
+    "llmlingua/version.py": "3483a54fdd5e324be2a4494fb03afb200ba17ee768036de5e3b6b91fc2679224",
+    "llmlingua/__init__.py": "68327923b97309c7f8ca1ca4150592b21c7fdadbdc38536ae4e4357de8b90d47"
+  }
+}

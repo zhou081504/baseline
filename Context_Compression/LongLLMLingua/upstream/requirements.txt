@@ -1,0 +1,10 @@
+# Upstream minimum plus an upper bound for its legacy tuple KV-cache API.
+# This range is not a validated lockfile; save pip freeze after GPU validation.
+transformers>=4.26.0,<4.45
+accelerate
+torch
+tiktoken
+nltk
+numpy
+PyYAML
+sentencepiece

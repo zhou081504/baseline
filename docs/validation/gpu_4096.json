@@ -1,0 +1,19 @@
+{
+  "synthetic_input": true,
+  "benchmark_metrics": false,
+  "status": "passed",
+  "sequence_length": 4096,
+  "internal_sequence_length": 512,
+  "sdpa_layers": 24,
+  "amp": "bf16",
+  "training_steps": 2,
+  "training_losses": [
+    0.75390625,
+    0.1689453125
+  ],
+  "gradients_finite": true,
+  "peak_allocated_gib": 11.525,
+  "peak_reserved_gib": 12.713,
+  "checkpoint_reload_equal": true,
+  "seconds": 7.39
+}

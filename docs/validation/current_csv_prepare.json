@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "csv_records": 23934,
+  "class_counts": {
+    "0": 23602,
+    "1": 332
+  },
+  "classifier": "BAAI/bge-m3",
+  "max_length": 8192,
+  "prepared_samples": 12,
+  "min_tokens": 284,
+  "max_tokens": 8192,
+  "csv_sha256": "06360b9c5dfd07e437baaaa056f3e0f8bfe0064cc4efed3d9d49a424dbd402a9"
+}

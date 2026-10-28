@@ -1,0 +1,10 @@
+# Isolated environment; do not downgrade existing conda environments.
+torch==2.6.0
+transformers==4.44.2
+accelerate>=0.34,<2
+numpy>=1.26,<3
+scikit-learn>=1.4,<2
+safetensors>=0.4
+nltk>=3.8,<4
+tiktoken>=0.7,<1
+sentencepiece>=0.2,<1
